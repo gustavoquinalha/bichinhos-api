@@ -1,20 +1,4 @@
 {
-  "user": {
-    "id": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
-    "nome": "Gustavo",
-    "sobreNome": "Quinalha",
-    "dataNascimento": "1996-06-07",
-    "email": "gusquinalha@gmail.com",
-    "foto": "https://cdnb.artstation.com/p/users/avatars/000/290/711/large/f1f097ad5c2d4131242f0d62223c6c94.jpg",
-    "fotoCapa": "https://www.petdoctor.com.br/wp-content/uploads/2021/04/10RacasDeCaesMaisPopularesNoBrasil-Topo-Abr21.jpg",
-    "cpf": "01234567890",
-    "cnpj": null,
-    "endereco": null,
-    "telefone": null,
-    "cidade": "Maringá",
-    "estado": "PR",
-    "sobre": "sobre"
-  },
   "users": [
     {
       "id": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
@@ -37,7 +21,7 @@
     {
       "id": "9221d36c-4838-4e5e-bf62-5293f16bd587",
       "nome": "Billy Billy",
-      "status": 3,
+      "status": 1,
       "localizacao": "Maringá",
       "dataNascimento": "1996-07-06",
       "sexo": "Macho",
