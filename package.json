@@ -1,0 +1,23 @@
+{
+  "name": "bichinhos-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoquinalha/bichinhos-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavoquinalha/bichinhos-api/issues"
+  },
+  "homepage": "https://github.com/gustavoquinalha/bichinhos-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
