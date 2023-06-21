@@ -41,7 +41,7 @@
     {
       "id": "249fa5c7-e402-4cc0-a15b-9645a8ed9819",
       "nome": "Billy Billyassasa ",
-      "status": 2,
+      "status": 1,
       "localizacao": "Maringá",
       "dataNascimento": "1996-07-06",
       "sexo": "Macho",
@@ -77,6 +77,26 @@
         "email": "gusquinalha@gmail.com",
         "foto": "https://cdnb.artstation.com/p/users/avatars/000/290/711/large/f1f097ad5c2d4131242f0d62223c6c94.jpg"
       }
-    }
+    },
+    {
+      "id": "8cb3dfe6-da56-4427-8adc-ccdf81044b63",
+      "nome": "Lucy",
+      "status": 2,
+      "localizacao": "Maringá",
+      "dataNascimento": "2020-08-05",
+      "sexo": "Fêmea",
+      "porte": "Grande",
+      "raca": "Vira-lata",
+      "foto": "https://images.dog.ceo/breeds/retriever-golden/n02099601_5544.jpg",
+      "sobre": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos",
+      "castrado": true,
+      "responsavel": {
+        "idUsuario": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
+        "nome": "Gustavo",
+        "sobreNome": "Quinalha",
+        "email": "gusquinalha@gmail.com",
+        "foto": "https://cdnb.artstation.com/p/users/avatars/000/290/711/large/f1f097ad5c2d4131242f0d62223c6c94.jpg"
+      }
+    },
   ]
 }
