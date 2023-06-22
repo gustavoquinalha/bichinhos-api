@@ -98,7 +98,7 @@
         "foto": "https://cdnb.artstation.com/p/users/avatars/000/290/711/large/f1f097ad5c2d4131242f0d62223c6c94.jpg"
       }
     },
-        {
+    {
       "id": "fd6feac1-2c79-4042-aba5-8db3c11ceeb3",
       "nome": "Rocky",
       "status": 1,
@@ -157,6 +157,6 @@
         "email": "gusquinalha@gmail.com",
         "foto": "https://cdnb.artstation.com/p/users/avatars/000/290/711/large/f1f097ad5c2d4131242f0d62223c6c94.jpg"
       }
-    },
+    }
   ]
 }
