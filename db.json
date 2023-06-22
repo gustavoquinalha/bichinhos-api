@@ -40,10 +40,10 @@
     },
     {
       "id": "249fa5c7-e402-4cc0-a15b-9645a8ed9819",
-      "nome": "Billy Billyassasa ",
+      "nome": "Marley",
       "status": 1,
       "localizacao": "Maringá",
-      "dataNascimento": "1996-07-06",
+      "dataNascimento": "1996-06-07",
       "sexo": "Macho",
       "porte": "Pequeno",
       "raca": "Vira-lata",
@@ -63,7 +63,7 @@
       "nome": "Billy Billy",
       "status": 1,
       "localizacao": "Maringá",
-      "dataNascimento": "1996-07-06",
+      "dataNascimento": "1996-06-07",
       "sexo": "Macho",
       "porte": "Pequeno",
       "raca": "Vira-lata",
@@ -90,6 +90,66 @@
       "foto": "https://images.dog.ceo/breeds/retriever-golden/n02099601_5544.jpg",
       "sobre": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos",
       "castrado": true,
+      "responsavel": {
+        "idUsuario": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
+        "nome": "Gustavo",
+        "sobreNome": "Quinalha",
+        "email": "gusquinalha@gmail.com",
+        "foto": "https://cdnb.artstation.com/p/users/avatars/000/290/711/large/f1f097ad5c2d4131242f0d62223c6c94.jpg"
+      }
+    },
+        {
+      "id": "fd6feac1-2c79-4042-aba5-8db3c11ceeb3",
+      "nome": "Rocky",
+      "status": 1,
+      "localizacao": "Maringá",
+      "dataNascimento": "2019-04-25",
+      "sexo": "Macho",
+      "porte": "Médio",
+      "raca": "Vira-lata",
+      "foto": "https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg",
+      "sobre": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos",
+      "castrado": true,
+      "responsavel": {
+        "idUsuario": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
+        "nome": "Gustavo",
+        "sobreNome": "Quinalha",
+        "email": "gusquinalha@gmail.com",
+        "foto": "https://cdnb.artstation.com/p/users/avatars/000/290/711/large/f1f097ad5c2d4131242f0d62223c6c94.jpg"
+      }
+    },
+    {
+      "id": "1ca2379f-d471-40b4-8f61-0480fc26eb7f",
+      "nome": "Lola",
+      "status": 1,
+      "localizacao": "Maringá",
+      "dataNascimento": "2017-12-01",
+      "sexo": "Fêmea",
+      "porte": "Pequeno",
+      "raca": "Vira-lata",
+      "foto": "https://images.dog.ceo/breeds/kelpie/n02105412_1952.jpg",
+      "sobre": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos",
+      "castrado": false,
+      "responsavel": {
+        "idUsuario": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
+        "nome": "Gustavo",
+        "sobreNome": "Quinalha",
+        "email": "gusquinalha@gmail.com",
+        "foto": "https://cdnb.artstation.com/p/users/avatars/000/290/711/large/f1f097ad5c2d4131242f0d62223c6c94.jpg"
+      }
+    },
+    {
+      "id": "c60b64d7-7b24-4042-a49f-4dc0f5f67c83",
+      "nome": "Toby",
+      "status": 1,
+      "localizacao": "Maringá",
+      "dataNascimento": "2022-02-17",
+      "sexo": "Macho",
+      "porte": "Médio",
+      "raca": "Vira-lata",
+      "foto": "https://images.dog.ceo/breeds/segugio-italian/n02090722_001.jpg",
+      "sobre": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos",
+      "castrado": false,
       "responsavel": {
         "idUsuario": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
         "nome": "Gustavo",
