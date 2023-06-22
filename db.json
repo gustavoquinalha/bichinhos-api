@@ -88,7 +88,7 @@
       "porte": "Grande",
       "raca": "Vira-lata",
       "foto": "https://images.dog.ceo/breeds/retriever-golden/n02099601_5544.jpg",
-      "sobre": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos",
+      "sobre": "sobre",
       "castrado": true,
       "responsavel": {
         "idUsuario": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
@@ -108,7 +108,7 @@
       "porte": "Médio",
       "raca": "Vira-lata",
       "foto": "https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg",
-      "sobre": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos",
+      "sobre": "sobre",
       "castrado": true,
       "responsavel": {
         "idUsuario": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
@@ -128,7 +128,7 @@
       "porte": "Pequeno",
       "raca": "Vira-lata",
       "foto": "https://images.dog.ceo/breeds/kelpie/n02105412_1952.jpg",
-      "sobre": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos",
+      "sobre": "sobre",
       "castrado": false,
       "responsavel": {
         "idUsuario": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
@@ -148,7 +148,7 @@
       "porte": "Médio",
       "raca": "Vira-lata",
       "foto": "https://images.dog.ceo/breeds/segugio-italian/n02090722_001.jpg",
-      "sobre": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos",
+      "sobre": "sobre",
       "castrado": false,
       "responsavel": {
         "idUsuario": "fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
