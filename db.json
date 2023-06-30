@@ -2,6 +2,7 @@
    "users":[
       {
          "id":"fbaa9111-2fd5-406c-bd89-7fafd8b5c4b0",
+         "googleId":"google-oauth2|113461673658295764977",
          "nome":"Gustavo",
          "sobreNome":"Quinalha",
          "dataNascimento":"1996-06-07",
